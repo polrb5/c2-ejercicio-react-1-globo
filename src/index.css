@@ -4,10 +4,10 @@
 
 body {
   margin: 0;
-  height: 100vh;
 }
 
 .icono {
   font-size: 100px;
   position: fixed;
+  transition: all 200ms;
 }
